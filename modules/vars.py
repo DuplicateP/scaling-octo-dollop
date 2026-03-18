@@ -8,7 +8,7 @@ API_HASH = environ.get("API_HASH"," ")
 BOT_TOKEN = environ.get("BOT_TOKEN", "")
 
 OWNER = int(environ.get("OWNER", ""))
-CREDIT = environ.get("CREDIT", '<a href="https://t.me/Jetha_lal_bot">𝄟⃝🐬🅹🅰🅸 🆂🅷🆁🅸 🆁🅰🅼 ⚡️ 𝄟⃝🐬 💻</a>')
+CREDIT = environ.get("CREDIT", '<a href="https://t.me/Jetha_lal_bot"𝗠𝗢𝗗𝗔𝗦𝗦𝗜𝗥 ⚡  💻</a>')
 cookies_file_path = os.getenv("cookies_file_path", "youtube_cookies.txt")
 
 TOTAL_USER = os.environ.get('TOTAL_USERS', '').split(',')
